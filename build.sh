@@ -5,11 +5,11 @@ set -e
 # Release-dance code goes here.
 
 # Constants
-PRODUCT="Propachi: CSL processor monkey-patch for Zotero"
+PRODUCT="Propachi: CSL processor monkey-patch for Zotero (uppercase subtitles)"
 IS_BETA=0
-FORK="propachi-vanilla"
+FORK="propachi-upper"
 BRANCH="master"
-CLIENT="propachi-vanilla"
+CLIENT="propachi-upper"
 VERSION_ROOT="1.1."
 
 # Error handlers
