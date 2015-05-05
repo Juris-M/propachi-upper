@@ -12,8 +12,8 @@
                                 <em:id>zotero@chnm.gmu.edu</em:id>
                                 <em:minVersion>2.1</em:minVersion>
                                 <em:maxVersion>4.0.*</em:maxVersion>
-                                <em:updateLink>https://github.com/Juris-M/propachi-vanilla/releases/download/v1.1.1/propachi-vanilla-v1.1.1.xpi</em:updateLink>
-                                <em:updateHash>sha1:c2645d4f9f5b9d6c98576c41db784e2650205865</em:updateHash>
+                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.1/propachi-upper-v1.1.1.xpi</em:updateLink>
+                                <em:updateHash>sha1:29eb3b1d21df7269ec048674b9d8bb1250736849</em:updateHash>
                             </rdf:Description>
                         </em:targetApplication>
                         <em:targetApplication>
@@ -21,8 +21,8 @@
                                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                                 <em:minVersion>3.6</em:minVersion>
                                 <em:maxVersion>38.*</em:maxVersion>
-                                <em:updateLink>https://github.com/Juris-M/propachi-vanilla/releases/download/v1.1.1/propachi-vanilla-v1.1.1.xpi</em:updateLink>
-                                <em:updateHash>sha1:c2645d4f9f5b9d6c98576c41db784e2650205865</em:updateHash>
+                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.1/propachi-upper-v1.1.1.xpi</em:updateLink>
+                                <em:updateHash>sha1:29eb3b1d21df7269ec048674b9d8bb1250736849</em:updateHash>
                             </rdf:Description>
                         </em:targetApplication>
                     </rdf:Description>
@@ -30,12 +30,12 @@
             </rdf:Seq>
         </em:updates>
         <em:signature>
-            MIIBEjALBgkqhkiG9w0BAQ0DggEBAARQwZ/S2KkTHMuPXTQdDlTO/IN0T6s+8uiU
-            rCQmuVW79Zf4Adc7vMn6xWdXTR9B46O/WW8RtqpCFjdJ89DQ5sv3ZCXmRuO4McqE
-            VcPsWLqCtTvqvAJiO95WUfBXB5HKDqByVWrh5Tnap1U9IoKIBRI8KA3CGrP35v/P
-            45Huew9BF+k/Jp7SMN9blnGVOFIONtEesxoAU+vhJXKB0Ee7GfL8igBIgQiK/2Bn
-            T8vYMkr9OEU0FdkXjlOqzApoe6dwmxxlY/2uff7L27PlEDzAa/ywxn5L9daBby96
-            BbAdB+/PhFSM+pdQLF+tF/l2ZaBBxlGeTaSog2gretIOtG8yOuQ=
+            MIIBEjALBgkqhkiG9w0BAQ0DggEBAHhtAxH/iHR67ZJwjzNu+xqKkPfQxXZMMpJd
+            oRpjHrTHTxRWtlnhP7rv11HpDMGwjGtdnjTMJKDZmsKw9BWbHPrW09CH0BdTdSMf
+            YKGV7Vm7HOfkpJh4h08J3pgTh4wUTw1b/BDD9R87fMSIXfwarpSlFSVDXczUv6Tb
+            ZAiIwukG+R3tjvzsGyGi7ROFRZ5WK+P+w82CPyjMy/EJngll8XSHxkmzpHW649zU
+            P3qfsDObQ0sF66/9XCEqyGZVKat98ztFcQUGq8hHkiegMdAX+PGUTLJujwsJ8YKe
+            fJwwiSf+qZPKLFErEOo3EwqWUBH179uZ8t5Ba5sumHQ3bi5mlc0=
         </em:signature>
     </rdf:Description>
 </rdf:RDF>
