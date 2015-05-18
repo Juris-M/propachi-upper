@@ -11,7 +11,7 @@
     <em:updateURL>https://juris-m.github.io/propachi-upper</em:updateURL>
     <em:unpack>true</em:unpack>
     <em:bootstrap>true</em:bootstrap>
-    <em:updateKey> <!-- Should this be different than the standard version updatekey? -->
+    <em:updateKey>
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsknZz0mHwhMpappMJe85
 3WeKMu+EjNfYAnBIcw/gTmzuOqnrfQcW3kJtkk/zX5GgXpbXjbv27C60cu2ORd/g
 8TJ1UANhAgJmbObGwr2Gml9KTIxOWmmEAPaCxGR89LgzmUQY2jJ0LQbzXm28OWnf
