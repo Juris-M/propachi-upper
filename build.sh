@@ -62,19 +62,30 @@ case $RELEASE in
         echo "(2)"
         # Claxon
         check-for-uncommitted
+        echo "  (a)"
         # Preliminaries
         increment-patch-level
+        echo "  (b)"
         increment-beta-level
+        echo "  (c)"
         save-beta-level
+        echo "  (d)"
         echo "Version is: $VERSION"
         # Build
         touch-log
+        echo "  (e)"
         refresh-style-modules
+        echo "  (f)"
         build-the-plugin
+        echo "  (g)"
         git-checkin-all-and-push
+        echo "  (h)"
         create-github-release
+        echo "  (i)"
         add-xpi-to-github-release
+        echo "  (j)"
         repo-finish 0 "Released as BETA (uploaded to GitHub, prerelease)"
+        echo "  (k)"
         ;;
     3)
         echo "(3)"
