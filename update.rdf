@@ -6,14 +6,14 @@
             <rdf:Seq>
                 <rdf:li>
                     <rdf:Description>
-                        <em:version>1.1.6</em:version>
+                        <em:version>1.1.5</em:version>
                         <em:targetApplication>
                             <rdf:Description>
                                 <em:id>zotero@chnm.gmu.edu</em:id>
                                 <em:minVersion>2.1</em:minVersion>
                                 <em:maxVersion>4.0.*</em:maxVersion>
-                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.6/propachi-upper-v1.1.6.xpi</em:updateLink>
-                                <em:updateHash>sha1:6dacf93c084fbfc3b88282705ab777e1eaefefce</em:updateHash>
+                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.5/propachi-upper-v1.1.5.xpi</em:updateLink>
+                                <em:updateHash>sha1:16ec39b168e2970c145f3643b87c2d97b4e14d03</em:updateHash>
                             </rdf:Description>
                         </em:targetApplication>
                         <em:targetApplication>
@@ -21,8 +21,8 @@
                                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                                 <em:minVersion>3.6</em:minVersion>
                                 <em:maxVersion>38.*</em:maxVersion>
-                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.6/propachi-upper-v1.1.6.xpi</em:updateLink>
-                                <em:updateHash>sha1:6dacf93c084fbfc3b88282705ab777e1eaefefce</em:updateHash>
+                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.5/propachi-upper-v1.1.5.xpi</em:updateLink>
+                                <em:updateHash>sha1:16ec39b168e2970c145f3643b87c2d97b4e14d03</em:updateHash>
                             </rdf:Description>
                         </em:targetApplication>
                     </rdf:Description>
@@ -30,12 +30,12 @@
             </rdf:Seq>
         </em:updates>
         <em:signature>
-            MIIBEjALBgkqhkiG9w0BAQ0DggEBAAXugVz2n0jWS+gaE3VS9ssZxWCW1uJmc7bl
-            pLzpxBcn+TFCCo9Kp3eOePbdWKSdOoFvY0USN1xm5sQNCCnLi0GBKEPYQILu55/F
-            FCOhcLXbk6FErNIaAYpXLrWCt1Jwc5xSo8TeOuUaYINoASAH+qJDOH5VctxYC5G2
-            HrqcY8To6/pgvdrIvP7GWGRxSiOh+H4ZL1cOlZVc3LvWVzYOWrEXi0a3kjoStGN8
-            Y4KYJFKP4PgbTfhYLAvYRXboA0bGWTAhhk41Wlz+9H2ktIWugYsioK0fUuPFxTuE
-            zeaxENr/D0WysVaChC5la+7+Xl2AlAehNfX670s/TnMF95jQ5mE=
+            MIIBEjALBgkqhkiG9w0BAQ0DggEBADPmLmdfRkMSmAGzu4cUFk4a15JwEe74uZJM
+            BeZrIfjMK9ayTH/oGlipM44qSAxrb0aRdOoGlrGzIgVBRyqHz8gkszL04/HVuZ5k
+            CqMky/nzOJG1cIVAdMU8Ke/r0EitZoLnHWwu0FFFFoCWNwawXeof+71XzYTUauCK
+            CPOl0v7Z490BE0MmxdYJ4wksIkNfS5aOJLVj7kYPWrwYssi2uYOHcn+D6boJO4J9
+            DgSLolGRJYkPI83IeFCyUDmbJgp/o3To19QXSZs4mDH8xctCrOO+J4Kk7jEp3jtc
+            RIgbtRkfTUTVbuqDJcJTa80RI+uo+wjCoXGLFCPkq778qqffByo=
         </em:signature>
     </rdf:Description>
 </rdf:RDF>
