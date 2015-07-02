@@ -1,41 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-        xmlns:em="http://www.mozilla.org/2004/em-rdf#">
-    <rdf:Description rdf:about="urn:mozilla:extension:propachi-upper@juris-m.github.io">
-        <em:updates>
-            <rdf:Seq>
-                <rdf:li>
-                    <rdf:Description>
-                        <em:version>1.1.7</em:version>
-                        <em:targetApplication>
-                            <rdf:Description>
-                                <em:id>zotero@chnm.gmu.edu</em:id>
-                                <em:minVersion>2.1</em:minVersion>
-                                <em:maxVersion>4.0.*</em:maxVersion>
-                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.7/propachi-upper-v1.1.7.xpi</em:updateLink>
-                                <em:updateHash>sha1:05ce01d709478c05ab83f3f5c513a7406deead11</em:updateHash>
-                            </rdf:Description>
-                        </em:targetApplication>
-                        <em:targetApplication>
-                            <rdf:Description>
-                                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-                                <em:minVersion>3.6</em:minVersion>
-                                <em:maxVersion>38.*</em:maxVersion>
-                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.7/propachi-upper-v1.1.7.xpi</em:updateLink>
-                                <em:updateHash>sha1:05ce01d709478c05ab83f3f5c513a7406deead11</em:updateHash>
-                            </rdf:Description>
-                        </em:targetApplication>
-                    </rdf:Description>
-                </rdf:li>
-            </rdf:Seq>
-        </em:updates>
-        <em:signature>
-            MIIBEjALBgkqhkiG9w0BAQ0DggEBAFsgbwulu3E/f1c/wBhlaZX8vSNEIdlCi/wa
-            V6vdLiw0ee/9tg6upX2LY/1M64Hi4l+3dKTe9Z+w+fc66OCV81kbfjGgPpvGOBBL
-            NV9n2rdGEP9wLhbbKVsEMNS9zyiE9a84+Dr2hyCo2cQliqiEk7+GXKdhY/T0QDBG
-            vbDM/wemOIFzeNTB/sf6rvUMMu8AWv1UcvROEEtemFZHX4N81tHhqtJnV0rTSam5
-            2oUuLHvOH0AoxAmXIkXMSyFzHgVBogfYhm1jquQimu236W9Qsf8FvNiJfZSqR5sk
-            KShyr54Bst+fUq2WydCy6oqJMMkC1r8YIBaR52ml51A9pxL4L1U=
-        </em:signature>
-    </rdf:Description>
-</rdf:RDF>
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:mozilla:extension:propachi-upper@juris-m.github.io"
+                   em:signature="MIGTMA0GCSqGSIb3DQEBDQUAA4GBAI0ISzJtIcl8LR6UOWw+8H+JQ4wKirhuTwOOaL/8iHulguBnRmkHSM6/uNikDArOCEsAHdaiCk7dhDCsuzze2+4AoHcBu/2jnfrgalJ6ySusW7ssN1h5X3fXx/9/3gLaqBaNe27Za3xdtVXwNTDvuVZTERjAbEfbF6ai3uqK99gn">
+    <em:updates RDF:resource="rdf:#$HG0wI1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf:#$IG0wI1"
+                   em:version="1.1.8">
+    <em:targetApplication RDF:resource="rdf:#$LG0wI1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$HG0wI1">
+    <RDF:li RDF:resource="rdf:#$IG0wI1"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$LG0wI1"
+                   em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
+                   em:minVersion="3.6"
+                   em:maxVersion="39.*"
+                   em:updateLink="https://github.com/Juris-M/propachi-upper/releases/download/v1.1.8/propachi-upper-v1.1.8.xpi" />
+</RDF:RDF>
