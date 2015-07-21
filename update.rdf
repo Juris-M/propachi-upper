@@ -2,20 +2,20 @@
 <RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
          xmlns:NC="http://home.netscape.com/NC-rdf#"
          xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <RDF:Description RDF:about="rdf:#$KVXH33"
+  <RDF:Seq RDF:about="rdf:#$ZAWK71">
+    <RDF:li RDF:resource="rdf:#$.AWK71"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="urn:mozilla:extension:propachi-upper@juris-m.github.io"
+                   em:signature="MIGTMA0GCSqGSIb3DQEBDQUAA4GBABZ8cT6oOryt5B5ohB8GxVvYvtm02RsesXJFW3QbqiKAW/lK46wt/QJAsZpCx3olP87bLWHAU7Vx2Li8fXgRaq8YY5ioWD9IJDm3Aa32mvWmnfiHq3iOabYiAQqhzcvRen4kLuk6ojt0g7cTHug9ZixlXrcSDuzuDJNx01MVvy1X">
+    <em:updates RDF:resource="rdf:#$ZAWK71"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf:#$1BWK71"
                    em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
                    em:minVersion="3.6"
                    em:maxVersion="39.*"
-                   em:updateLink="https://github.com/Juris-M/propachi-upper/releases/download/v1.1.9/propachi-upper-v1.1.9.xpi" />
-  <RDF:Seq RDF:about="rdf:#$GVXH33">
-    <RDF:li RDF:resource="rdf:#$HVXH33"/>
-  </RDF:Seq>
-  <RDF:Description RDF:about="urn:mozilla:extension:propachi-upper@juris-m.github.io"
-                   em:signature="MIGTMA0GCSqGSIb3DQEBDQUAA4GBAEZoXredfKZIr6Tz7vWdzMxQqrVkHjmiN6Vv7wX+RBlQ50k2TMc1rUUsDHitzWECMu3kBZVvJF/SDBa3ICx61mXZGct2xs+uQ9YXGMO8Xr4YYoZPPzomoRcYhZvZqCbv9LvBAkr5SqdghBlfeHHPZUxH01vdTOA6PM8xpJQN8BoI">
-    <em:updates RDF:resource="rdf:#$GVXH33"/>
-  </RDF:Description>
-  <RDF:Description RDF:about="rdf:#$HVXH33"
-                   em:version="1.1.9">
-    <em:targetApplication RDF:resource="rdf:#$KVXH33"/>
+                   em:updateLink="https://github.com/Juris-M/propachi-upper/releases/download/v1.1.10/propachi-upper-v1.1.10.xpi" />
+  <RDF:Description RDF:about="rdf:#$.AWK71"
+                   em:version="1.1.10">
+    <em:targetApplication RDF:resource="rdf:#$1BWK71"/>
   </RDF:Description>
 </RDF:RDF>
