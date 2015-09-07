@@ -6,7 +6,7 @@ set -e
 
 # Constants
 PRODUCT="Propachi: CSL processor monkey-patch for Zotero (uppercase subtitles)"
-IS_BETA=0
+IS_BETA="false"
 FORK="propachi-upper"
 BRANCH="master"
 CLIENT="propachi-upper"
