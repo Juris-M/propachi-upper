@@ -1,21 +1,23 @@
-<?xml version="1.0"?>
-<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
-         xmlns:NC="http://home.netscape.com/NC-rdf#"
-         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <RDF:Seq RDF:about="rdf:#$H.hrv1">
-    <RDF:li RDF:resource="rdf:#$I.hrv1"/>
-  </RDF:Seq>
-  <RDF:Description RDF:about="rdf:#$I.hrv1"
-                   em:version="1.1.13">
-    <em:targetApplication RDF:resource="rdf:#$L.hrv1"/>
-  </RDF:Description>
-  <RDF:Description RDF:about="rdf:#$L.hrv1"
-                   em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
-                   em:minVersion="3.6"
-                   em:maxVersion="39.*"
-                   em:updateLink="https://github.com/Juris-M/propachi-upper/releases/download/v1.1.13/propachi-upper-v1.1.13.xpi" />
-  <RDF:Description RDF:about="urn:mozilla:extension:propachi-upper@juris-m.github.io"
-                   em:signature="MIGTMA0GCSqGSIb3DQEBDQUAA4GBAJ+wJTNM+nAantBiK3xfmlfS87u1ED/5opW/2PTqrFBoJsio3qXv/b3yGSTq/1gXxX6q/sHkHJZ6Sw/OEuvY1eRL0AHzUn940av8xtORvj5CyWAFyA/cmdWqCRxQDLhjQ41+WOq8kRFHjTBzJy2uCIVmmE3tieLDO327TWHOZpt7">
-    <em:updates RDF:resource="rdf:#$H.hrv1"/>
-  </RDF:Description>
-</RDF:RDF>
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <rdf:Description rdf:about="urn:mozilla:extension:propachi-upper@juris-m.github.io">
+        <em:updates>
+            <rdf:Seq>
+                <rdf:li>
+                    <rdf:Description>
+                        <em:version>1.1.16</em:version>
+                        <em:targetApplication>
+                            <rdf:Description>
+                                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                                <em:minVersion>3.6</em:minVersion>
+                                <em:maxVersion>39.*</em:maxVersion>
+                                <em:updateLink>https://github.com/Juris-M/propachi-upper/releases/download/v1.1.16/propachi-upper-v1.1.16.xpi</em:updateLink>
+                            </rdf:Description>
+                        </em:targetApplication>
+                    </rdf:Description>
+                </rdf:li>
+            </rdf:Seq>
+        </em:updates>
+    </rdf:Description>
+</rdf:RDF>
