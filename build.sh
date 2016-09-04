@@ -17,7 +17,7 @@ function xx-fetch-latest-processor () {
     cd "${SCRIPT_DIR}"
     cd ../citeproc-js
     ./test.py -B
-    mv citeproc.js "${SCRIPT_DIR}/chrome/content/citeproc.js"
+    cp citeproc.js "${SCRIPT_DIR}/chrome/content/citeproc.js"
     sed -si 's/this\.development_extensions\.main_title_from_short_title = false/this\.development_extensions\.main_title_from_short_title = true/' "${SCRIPT_DIR}/chrome/content/citeproc.js"
     sed -si 's/this\.development_extensions\.uppercase_subtitles = false/this\.development_extensions\.uppercase_subtitles = true/' "${SCRIPT_DIR}/chrome/content/citeproc.js"
     cd "${SCRIPT_DIR}"
